@@ -1,0 +1,14 @@
+# Student Database Management Studio v2.0
+# Chỉ sử dụng thư viện chuẩn của Python
+
+# Python >= 3.7
+# Tkinter (thường được cài sẵn với Python)
+
+# Kiểm tra Tkinter:
+# python -m tkinter
+
+# Nếu thiếu Tkinter:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter  
+# macOS: Đã cài sẵn
+# Windows: Đã cài sẵn
